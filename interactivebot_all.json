@@ -1,1 +1,1 @@
-{"questions" : [{"regexp" : "���Ȃ�.*?���O�͉�.*?", "value" : "�G�[�A�C�ł��B�ǂ�����낵����"}], "answers" : [{"regexp" : "�ɂ��ς�", "value" : "�ɂ��ς�"}]}
+{"questions" : [{"regexp" : "あなた.*?名前は何.*?", "value" : "エーアイです。どうぞよろしくね"}], "answers" : [{"regexp" : "にゃんぱす", "value" : "にゃんぱす"}]}
