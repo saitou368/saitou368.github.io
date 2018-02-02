@@ -1,5 +1,5 @@
-{"questions":[{"regexp":{"regexp":".*?","value":"アプリをアップデートしてください"}],
-"answers":[{"regexp":{"regexp":".*?","value":"アプリをアップデートしてください"}],
+{"questions":[{"regexp":".*?","value":"アプリをアップデートしてください"}],
+"answers":[{"regexp":".*?","value":"アプリをアップデートしてください"}],
 "speeches":[{"regexp":"[ |　]","value":"、"}],
 "charas":[{"regexp":"(がんばる|頑張|ぞい！)","value":"6,7,81,101,102,103"}],
 "idles":["アプリをアップデートしてください"],
